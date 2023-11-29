@@ -1,1 +1,1 @@
-# 30s_Clicks_Counter_GUI
+#This program will test you if how many clicks you can do in 30 seconds
